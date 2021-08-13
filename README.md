@@ -12,7 +12,7 @@
 
 ### About me:
 
-<img align="right" alt="rayban-glasses" src="https://media.giphy.com/media/c9aZp1qZ38AFO/giphy.gif">
+<img align="right" alt="hands-keyboard" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
 
 <ul>
   <li>Name: Fábio Martinez</li>
