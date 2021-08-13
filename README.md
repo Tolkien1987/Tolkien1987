@@ -10,7 +10,7 @@
 <p>Welcome to my profile on Github! I'm Fábio a student and an aspiring Front-end Developer! Thanks for visiting :metal:</p>
 
 
-### Details
+### About me:
 
 
 <ul>
@@ -18,9 +18,12 @@
   <li>Age: 33</li>
   <li>Living in: Porto Alegre, Brazil</li>
   <li>Objective: Frontend Developer</li>
-  <li>University: CyberSecurity</l>
-  <li>Past Jobs: IT Support</l>
-  <li>Volunteer: IT Support at ArtSphereInc</l>
+  <li>University: CyberSecurity + Programador de Sistemas</l>
+  <li>Front-End Bootcamps/Others: Rocktseat + Digital Innovation One </l>
+  <li>Past Jobs: IT Support - Brazil</l>
+  <li>Volunteer: IT Support at ArtSphereInc - U.S.A (currently)</l>
+  <li>Looking for: Front-End entry-level + Volunteering opportunities</l>
+  <li>I am also: Professional photographer and guitar-player</l>
 </ul>
 
 <br>
@@ -32,7 +35,7 @@
 </div>
 
 
-### Roadmap
+### Roadmap 2021
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
