@@ -6,8 +6,8 @@
 
 <br>
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um estudante e aspirante a desenvolvedor Front-end! :metal:</p>
-<p>Welcome to my profile on Github! I'm Fábio a student and an aspiring Front-end Developer! Thanks for visiting :metal:</p>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um estudante e aspirante a desenvolvedor Front-End! :metal:</p>
+<p>Welcome to my profile on Github! I'm Fábio a student and an aspiring Front-end Developer! :metal:</p>
 
 
 ### About me:
@@ -18,7 +18,7 @@
   <li>Name: Fábio Martinez</li>
   <li>Age: 33</li>
   <li>Living in: Porto Alegre, Brazil</li>
-  <li>Objective: Frontend Developer</li>
+  <li>Objective: Front-end Developer (mobile in the future)</li>
   <li>University: CyberSecurity + Programador de Sistemas</l>
   <li>Front-End Bootcamps/Others: Rocktseat + Digital Innovation One </l>
   <li>Past Jobs: IT Support - Brazil</l>
