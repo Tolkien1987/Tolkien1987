@@ -6,8 +6,8 @@
 
 <br>
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um estudante e aspirante a desenvolvedor Front-End! :metal:</p>
-<p>Welcome to my profile on Github! I'm Fábio a student and an aspiring Front-end Developer! :metal:</p>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um estudante e aspirante a desenvolvedor Mobile/Front-End! :metal:</p>
+<p>Welcome to my profile on Github! I'm Fábio a student and an aspiring Mobile/Front-end Developer! :metal:</p>
 
 
 ### About me:
