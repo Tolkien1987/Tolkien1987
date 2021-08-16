@@ -18,7 +18,7 @@
   <li>Name: Fábio Martinez</li>
   <li>Age: 33</li>
   <li>Living in: Porto Alegre, Brazil</li>
-  <li>Objective: Front-end Developer (mobile in the future)</li>
+  <li>Objective: Front-end and mobile Developer</li>
   <li>University: CyberSecurity + Programador de Sistemas</l>
   <li>Front-End Bootcamps/Others: Rocktseat + Digital Innovation One </l>
   <li>Past Jobs: IT Support - Brazil</l>
