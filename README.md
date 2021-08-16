@@ -18,12 +18,12 @@
   <li>Name: Fábio Martinez</li>
   <li>Age: 33</li>
   <li>Living in: Porto Alegre, Brazil</li>
-  <li>Objective: Front-end and mobile Developer</li>
+  <li>Objective: Mobile Developer</li>
   <li>University: CyberSecurity + Programador de Sistemas</l>
   <li>Front-End Bootcamps/Others: Rocktseat + Digital Innovation One </l>
   <li>Past Jobs: IT Support - Brazil</l>
   <li>Volunteer: IT Support at ArtSphereInc - U.S.A (currently)</l>
-  <li>Looking for: Front-End entry-level + Volunteering opportunities</l>
+  <li>Looking for: Mobile entry-level + Volunteering opportunities</l>
   <li>I am also: Professional photographer and guitar-player</l>
 </ul>
 
