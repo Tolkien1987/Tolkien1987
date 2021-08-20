@@ -12,7 +12,7 @@
 
 ### About me:
 
-<img align="right" alt="hands-keyboard" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
+<img align="right" alt="steve-jobs" src="https://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS">via GIPHY</a></p>">
 
 <ul>
   <li>Name: Fábio Martinez</li>
@@ -34,11 +34,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tolkien1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolkien1987&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-### Roadmap 2021
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-
 
