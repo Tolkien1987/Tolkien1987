@@ -12,7 +12,7 @@
 
 ### About me:
 
-<img align="right" alt="steve-jobs" src="https://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS"
+<img align="right" alt="steve-jobs" src="https://media.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif?cid=790b7611ec8958843a8037791c9538e6171165598639195b&rid=giphy.gif&ct=g"
 
 <ul>
   <li>Name: Fábio Martinez</li>
