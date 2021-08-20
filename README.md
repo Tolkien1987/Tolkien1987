@@ -6,8 +6,8 @@
 
 <br>
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um estudante e aspirante a desenvolvedor Mobile/Front-End! :metal:</p>
-<p>Welcome to my profile on Github! I'm Fábio a student and an aspiring Mobile/Front-end Developer! :metal:</p>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS em formação! :metal:</p>
+<p>Welcome to my profile on Github! I'm Fábio, an Junior iOS Developer! :metal:</p>
 
 
 ### About me:
@@ -18,12 +18,12 @@
   <li>Name: Fábio Martinez</li>
   <li>Age: 33</li>
   <li>Living in: Porto Alegre, Brazil</li>
-  <li>Objective: Mobile Developer</li>
+  <li>Objective: Mobile Developer - iOS</li>
   <li>University: CyberSecurity + Programador de Sistemas</l>
-  <li>Front-End Bootcamps/Others: Rocktseat + Digital Innovation One </l>
+  <li>Front-End Bootcamps/Others: Rocktseat + Digital House (Swift/iOS Dev. </l>
   <li>Past Jobs: IT Support - Brazil</l>
   <li>Volunteer: IT Support at ArtSphereInc - U.S.A (currently)</l>
-  <li>Looking for: Mobile entry-level + Volunteering opportunities</l>
+  <li>Looking for: Junior iOS Dev. opportunities</l>
   <li>I am also: Professional photographer and guitar-player</l>
 </ul>
 
