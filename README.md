@@ -20,7 +20,7 @@
   <li>Living in: Porto Alegre, Brazil</li>
   <li>Objective: Mobile Developer - iOS</li>
   <li>University: CyberSecurity + Programador de Sistemas</l>
-  <li>Bootcamps/Others: Rocktseat + Digital House + Sean Alen iOS/Swift </l>
+  <li>Bootcamps/Others: Rocktseat + Digital House + Sean Allen iOS/Swift </l>
   <li>Past Jobs: IT Support - Brazil</l>
   <li>Volunteer: IT Support at ArtSphereInc - U.S.A (currently)</l>
   <li>Looking for: Junior iOS Dev. opportunities</l>
