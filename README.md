@@ -12,7 +12,9 @@
 
 ### About me:
 
-<img align="right" alt="steve-jobs" src="https://media.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif?cid=790b7611ec8958843a8037791c9538e6171165598639195b&rid=giphy.gif&ct=g"/>
+<iframe src="https://giphy.com/embed/62PP2yEIAZF6g" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swag-80s-sunglasses-62PP2yEIAZF6g">via GIPHY</a></p>
+
+
 
 <ul>
   <li>Name: Fábio Martinez</li>
