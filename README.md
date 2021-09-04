@@ -16,7 +16,7 @@
 
 <img align="right" alt="steve-jobs" src="https://media.giphy.com/media/CTkWFZ1IDvsfS/giphy.gif?cid=790b7611ec8958843a8037791c9538e6171165598639195b&rid=giphy.gif&ct=g"/>
 
-<img align="right" alt="steve-jobs" src="https://giphy.com/gifs/swag-80s-sunglasses-62PP2yEIAZF6g"/>
+<img align="right" alt="80-glasses" src=https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif?cid=790b7611314acfd15ed506cd1ce6ce63f8a04fd40988d4f3&rid=giphy.gif&ct=g/>
 
 <ul>
   <li>Name: Fábio Martinez</li>
