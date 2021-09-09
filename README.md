@@ -1,8 +1,18 @@
 ### Fala Pessoal👋
 
+
+
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! :metal:</p>
+<p>Welcome to my profile on Github! I'm Fábio, an Junior iOS Developer! :metal:</p>
+
+
+### About me:
+
+
 <br>
 
-<a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! :metal:</p>
+<p>Welcome to my profile on Github! I'm Fábio, an Junior iOS Developer! :metal:</p>
 
 
  <p align="left">
@@ -18,28 +28,7 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></p>
 </div>
 
-<br>
-
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! :metal:</p>
-<p>Welcome to my profile on Github! I'm Fábio, an Junior iOS Developer! :metal:</p>
-
-
-### About me:
-
-
-
-<ul>
-  <li>Name: Fábio Martinez</li>
-  <li>Age: 33</li>
-  <li>Living in: Porto Alegre, Brazil</li>
-  <li>Objective: Mobile Developer - iOS</li>
-  <li>University: CyberSecurity + Programador de Sistemas</l>
-  <li>Bootcamps/Others: Rocktseat + Digital House + Sean Allen iOS/Swift </l>
-  <li>Past Jobs: IT Support - Brazil</l>
-  <li>Volunteer: IT Support at ArtSphereInc - U.S.A (currently)</l>
-  <li>Looking for: Junior iOS Dev. opportunities</l>
-  <li>I am also: Professional photographer and guitar-player</l>
-</ul>
+<a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
 
