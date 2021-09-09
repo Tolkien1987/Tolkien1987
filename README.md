@@ -18,9 +18,6 @@ Estou aprendendo / I am Learning:
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></p>
 </div>
-
-
-Linkedin:
 <a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
