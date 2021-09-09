@@ -4,6 +4,20 @@
 
 <a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+
+ <p align="left">
+ <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+ <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white"> 
+ <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" width="70">
+ <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" width="82"> 
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+ <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
+ <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+ <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+ <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></p>
+</div>
+
 <br>
 
 <p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! :metal:</p>
@@ -13,7 +27,6 @@
 ### About me:
 
 
-<img align="right" alt="80-glasses" src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif?cid=790b7611314acfd15ed506cd1ce6ce63f8a04fd40988d4f3&rid=giphy.gif&ct=g"/>
 
 <ul>
   <li>Name: Fábio Martinez</li>
