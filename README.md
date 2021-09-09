@@ -3,7 +3,7 @@
 
 
 <p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! :metal:</p>
-<p>Welcome to my profile on Github! I'm Fábio, an Junior iOS Developer! :metal:</p>
+<p>Welcome to my profile on Github! I'm Fábio, a Junior iOS Developer! :metal:</p>
 
 
 Estou aprendendo / I am Learning:
@@ -20,7 +20,7 @@ Estou aprendendo / I am Learning:
 </div>
 
 
-
+Linkedin:
 <a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
