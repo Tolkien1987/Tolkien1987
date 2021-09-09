@@ -6,6 +6,7 @@
 <p>Welcome to my profile on Github! I'm Fábio, an Junior iOS Developer! :metal:</p>
 
 
+Estou aprendendo / I am Learning:
 
  <p align="left">
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
@@ -17,6 +18,8 @@
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></p>
 </div>
+
+
 
 <a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
