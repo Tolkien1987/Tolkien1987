@@ -2,8 +2,8 @@
 
 
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! :metal:</p>
-<p>Welcome to my profile on Github! I'm Fábio, a Junior iOS Developer! :metal:</p>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! </p>
+<p>Welcome to my profile on Github! I'm Fábio, a Junior iOS Developer! </p>
 
 
 Estou aprendendo / I am Learning:
