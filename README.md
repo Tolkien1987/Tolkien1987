@@ -1,9 +1,9 @@
-### Fala Pessoal👋
+### Fala Pessoal / Hey, There!👋
 
 
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS Jr.! </p>
-<p>Welcome to my profile on Github! I'm Fábio, a Junior iOS Developer! </p>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS! </p>
+<p>Welcome to my profile on Github! I'm Fábio, an iOS Developer! </p>
 
 
 Estou aprendendo / I am Learning:
