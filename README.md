@@ -2,13 +2,14 @@
 
 :octocat: Welcome to my Github profile. I am Fábio, from the South of Brazil.
 
-<p> <samp> Tech geek here. I am iOS developer student at EBAC and Devpass fellow iOS developer, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks </p> 
+<p> <samp> Tech geek here. I am an iOS developer student at EBAC, Devpass fellow iOS developer, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks </p> 
 
 - 💻 iOS Developer
 - 📱 Exploring Mobile Development with Swift for iOS 
 - 👩🏻‍🎓 CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
-- 💬 Feel free to hit me!
+- :maple_leaf: :mountain_snow: Nature Lover!
+- :earth_africa: Feel free to hit me!
 
 <a href="https://github.com/tolkien1987">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
