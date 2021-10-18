@@ -15,12 +15,13 @@
 </a>
 
 <a href="https://github.com/tolkien1987">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
 
 <br>
+  
 
-Would you like to find me?
+:grinning: Would you like to find me?
 
 <a href="https://www.linkedin.com/in/f%C3%A1bio-martinez-44353990" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
