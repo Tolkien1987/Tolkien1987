@@ -1,26 +1,31 @@
-### Fala Pessoal / Hey, There!👋
+## Hello guys, what's up? :)
 
+:octocat: Welcome to my Github profile. I am Fábio, from the South of Brazil.
 
+<p> <samp> Tech geek here. I am iOS developer student at EBAC and Devpass fellow iOS developer, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks </p> 
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou Fábio, um desenvolvedor iOS! </p>
-<p>Welcome to my profile on Github! I'm Fábio, an iOS Developer! </p>
+- 💻 iOS Developer
+- 📱 Exploring Mobile Development with Swift for iOS 
+- 👩🏻‍🎓 CyberSecurity graduation student at SENAC
+- 🙋🏻 I am also a photographer and guitarplayer
+- 💬 Feel free to hit me!
 
+<a href="https://github.com/tolkien1987">
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
+</a>
 
-Estou aprendendo / I am Learning:
-
- <p align="left">
- <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" width="70">
- <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" width="82"> 
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
- <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></p>
-</div>
-<a href="https://www.linkedin.com/in/fábio-martinez-44353990/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/tolkien1987">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
 
 <br>
+
+Would you like to find me?
+
+<a href="https://www.linkedin.com/in/f%C3%A1bio-martinez-44353990" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+
+
+
 
 
 
