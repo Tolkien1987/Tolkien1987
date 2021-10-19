@@ -8,7 +8,6 @@
 - 📱 Exploring Mobile Development with Swift for iOS and a little of UX.
 - 👩🏻‍🎓 CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
-- :books:  Sci-Fi and Fantansy
 - :earth_africa: Feel free to hit me!
 
 <a href="https://github.com/tolkien1987">
