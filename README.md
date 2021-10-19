@@ -8,7 +8,6 @@
 - 📱 Exploring Mobile Development with Swift for iOS 
 - 👩🏻‍🎓 CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
-- :maple_leaf: :mountain_snow: Nature Lover!
 - :books:  Sci-Fi and Fantansy
 - :earth_africa: Feel free to hit me!
 
