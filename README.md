@@ -5,7 +5,7 @@
 <p> <samp> Tech geek here. I am an iOS developer student at EBAC, Devpass fellow iOS developer, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks </p> 
 
 - 💻 iOS Developer
-- 📱 Exploring Mobile Development with Swift for iOS 
+- 📱 Exploring Mobile Development with Swift for iOS and a little of UX.
 - 👩🏻‍🎓 CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
 - :books:  Sci-Fi and Fantansy
