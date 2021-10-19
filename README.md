@@ -6,7 +6,7 @@
 
 - 💻 iOS Developer
 - 📱 Exploring Mobile Development with Swift for iOS and a little of UX.
-- 👩🏻‍🎓 CyberSecurity graduation student at SENAC
+- :man_student: CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
 - :earth_africa: Feel free to hit me!
 
