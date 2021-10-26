@@ -26,7 +26,7 @@
 <br>
   
 
-:grinning: Would you like to find me?
+ Would you like to find me?
 
 <a href="https://www.linkedin.com/in/f%C3%A1bio-martinez-44353990" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
