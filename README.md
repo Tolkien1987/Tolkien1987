@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/0txFcsV/oie-7-YHXClnj94-M4.png" alt="oie-7-YHXClnj94-M4" border="0"></a>
+
 
 :octocat: Hey, I am Fábio!
 
