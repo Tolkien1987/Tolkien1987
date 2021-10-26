@@ -1,6 +1,6 @@
-## Hello guys, what's up? :)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0txFcsV/oie-7-YHXClnj94-M4.png" alt="oie-7-YHXClnj94-M4" border="0"></a>
 
-:octocat: Welcome to my Github profile. I am Fábio, from the South of Brazil.
+:octocat: Hey, I am Fábio!
 
 <p> <samp> Tech geek here. I am an iOS developer student at EBAC, iOS developer fellow at DevPass, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks </p> 
 
