@@ -13,7 +13,7 @@
 - :man_student: CyberSecurity graduation student at SENAC
 - :telephone:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
-- :books:	Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developers...and dinosaurs, I love them!
+- :books:	Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
 
 <a href="https://github.com/tolkien1987">
   <img height="160em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
