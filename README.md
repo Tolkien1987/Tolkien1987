@@ -29,7 +29,7 @@
 <div>
   <br/>
   <p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/tolkien1987/count.svg" alt="contador de visitas">
+    Who was here: <br> <img src="https://profile-counter.glitch.me/tolkien1987/count.svg" alt="contador de visitas">
   </p>
 </div>
 
