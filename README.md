@@ -25,7 +25,13 @@
 
 <a href="https://www.linkedin.com/in/f%C3%A1bio-martinez-44353990" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
-
+<!---Profile Counter--->
+<div>
+  <br/>
+  <p align="center">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/tolkien1987/count.svg" alt="contador de visitas">
+  </p>
+</div>
 
 
 
