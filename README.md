@@ -2,10 +2,11 @@
 
 :octocat: Hey, I am Fábio!
 
-<p> <samp> Tech geek here. I am an iOS developer student at EBAC, iOS developer fellow at DevPass, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks </p> 
+<p> <samp> Tech geek here. I am an iOS developer student at EBAC, iOS developer fellow at DevPass, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks. My main focus is work with iOS development! </p> 
 
-- 💻 iOS Developer
-- 📱 Exploring Mobile Development focused in Swift for iOS. I also have an interest in UX.
+- 💻 iOS Developer Student
+- 📱 Exploring Mobile Development focused in Swift for iOS.
+-  :nerd_face: Curious about UX and Python in the weekends
 - :man_student: CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
 - :earth_africa: Feel free to hit me!
