@@ -8,6 +8,7 @@
 - 📱 Exploring Mobile Development focused in Swift for iOS.
 -  :nerd_face: Curious about UX and Python in the weekends
 - :man_student: CyberSecurity graduation student at SENAC
+- :telephone:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
 - :earth_africa: Feel free to hit me!
 
