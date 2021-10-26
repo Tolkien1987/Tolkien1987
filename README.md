@@ -1,8 +1,11 @@
-
+<p align="center">
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" />
+</p>
+<h1>
 
 :octocat: Hey, I am Fábio!
 
-<p> <samp> Tech geek here. I am an iOS developer student at EBAC, iOS developer fellow at DevPass, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks. My main focus is work with iOS development! </p> 
+<p> <samp> I am an iOS developer student at EBAC, iOS developer fellow at DevPass, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks. My main focus is work with iOS development! </p> 
 
 - 💻 iOS Developer Student
 - 📱 Exploring Mobile Development focused in Swift for iOS.
