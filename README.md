@@ -23,19 +23,35 @@
 <a href="https://github.com/tolkien1987">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=10&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
-
-<br>
   
+  <h3 align="left">Current programming languages:</h3>
+  <div>
+    <a href="https://docs.swift.org/swift-book/" target="_blank"> <img align="center" alt="SWIFT-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"> </a>
+    
+  </div>
+	
+<h3 align="left">Next Steps:</h3>
+  <div>
+    <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>  
+    <a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
+  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 	  
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank"> <img align="center" alt="Go-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> </a> 	  
+  </div>
+ 
+<br>
 
- Would you like to find me?
-
+<div>
+  <br/>
+  <p align="center">
 <a href="https://www.linkedin.com/in/f%C3%A1bio-martinez-44353990" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  </p>
+</div>
 
 <!---Profile Counter--->
 <div>
   <br/>
   <p align="center">
-    Who was here: <br> <img src="https://profile-counter.glitch.me/tolkien1987/count.svg" alt="contador de visitas">
+    Have been here...: <br> <img src="https://profile-counter.glitch.me/tolkien1987/count.svg" alt="contador de visitas">
   </p>
 </div>
 
