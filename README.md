@@ -10,7 +10,7 @@
 
 - 💻 iOS Developer Student
 - 📱 Exploring Mobile Development focused in Swift for iOS.
--  :nerd_face: Curious about Python/C++/C# on weekends
+-  :nerd_face: Curious about C/C++/C# and Python on weekends
 - :man_student: CyberSecurity graduation student at SENAC
 - :telephone:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
@@ -31,11 +31,11 @@
   </div>
 	
 <h3 align="left">Next Steps:</h3>
-  <div>
-    <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>  
+  <div>  
     <a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
  <a href="https://docs.microsoft.com/pt-br/visualstudio/ide/quickstart-aspnet-core?view=vs-2019" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> </a> 
+<a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>
   <a href="https://golang.org/" target="_blank"> <img align="center" alt="Go-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> </a> 	  
   </div>
  
