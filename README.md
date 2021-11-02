@@ -10,9 +10,9 @@
 
 - 💻 iOS Developer Student
 - 📱 Exploring Mobile Development focused in Swift for iOS.
--  :nerd_face: Curious about C/C++/C# and Python on weekends
+-  :nerd_face: Curious about C/C++/C# and Python on weekends. For the future, GoLang and 3D.
 - :man_student: CyberSecurity graduation student at SENAC
-- :telephone:  IT Support background 
+- :desktop_computer:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
 - :books:	Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
 
