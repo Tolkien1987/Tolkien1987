@@ -4,12 +4,13 @@
 
 
 
-:octocat: Hey, there!
+cout << "Hello, world!" << endl;
 
-<p> <samp> I am Fábio, an iOS developer student at EBAC, iOS developer fellow at DevPass, I have a Cybersecurity Degree in course, and Support/Computer Networks background. My focus is to work with iOS development! </p> 
+<p>  I am Fábio, an iOS developer student at EBAC, iOS developer fellow at DevPass, digging C/C++/C#, I also have a Cybersecurity Degree in course, 
+and a Computer Networks background. My goal is to work with software development Swift / C++ / C#. </p> 
 
 - 📱 iOS Developer Student
-- 💻 Curious about C/C++/C# on weekends. For the future, Python, GoLang and 3D.
+- 💻 I'm also studying C/C++/C#. For the future, Python, GoLang and 3D.
 - :man_student: CyberSecurity graduation student at SENAC
 - :desktop_computer:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
