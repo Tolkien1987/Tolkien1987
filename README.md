@@ -17,11 +17,11 @@
 - :books:	Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
 
 <a href="https://github.com/tolkien1987">
-  <img height="160em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
+  <img height="160em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact&)" />
 </a>
 
 <a href="https://github.com/tolkien1987">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=10&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=10&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
   
   <h3 align="left">Current programming languages:</h3>
