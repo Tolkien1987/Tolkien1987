@@ -4,17 +4,16 @@
 
 
 
-:octocat: Hey, I am Fábio!
+:octocat: Hey, there!
 
-<p> <samp> I am an iOS developer student at EBAC, iOS developer fellow at DevPass, Cybersecurity Degree in course, and I have a background in IT Support/Computer Networks. My main focus is work with iOS development! </p> 
+<p> <samp> I am Fábio, an iOS developer student at EBAC, iOS developer fellow at DevPass, I have a Cybersecurity Degree in course, and Support/Computer Networks background. My focus is to work with iOS development! </p> 
 
-- 💻 iOS Developer Student
-- 📱 Exploring Mobile Development focused in Swift for iOS.
--  :nerd_face: Curious about C/C++/C# and Python on weekends. For the future, GoLang and 3D.
+- 📱 iOS Developer Student
+- 💻 Curious about C/C++/C# on weekends. For the future, Python, GoLang and 3D.
 - :man_student: CyberSecurity graduation student at SENAC
 - :desktop_computer:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
-- :books:	Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
+- :books: Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
 
 <a href="https://github.com/tolkien1987">
   <img height="160em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact&)" />
@@ -24,19 +23,20 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=10&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
   
-  <h3 align="left">Current programming languages:</h3>
+  <h3 align="left">Current programming languages (Learning):</h3>
   <div>
     <a href="https://docs.swift.org/swift-book/" target="_blank"> <img align="center" alt="SWIFT-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
+<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
+<a href="https://docs.microsoft.com/pt-br/visualstudio/ide/quickstart-aspnet-core?view=vs-2019" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> </a> 
     
   </div>
 	
 <h3 align="left">Next Steps:</h3>
   <div>  
-    <a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
-  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
- <a href="https://docs.microsoft.com/pt-br/visualstudio/ide/quickstart-aspnet-core?view=vs-2019" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>
   <a href="https://golang.org/" target="_blank"> <img align="center" alt="Go-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> </a> 	  
+  <a href="https://unity.com/pt" target="_blank"> <img align="center" alt="Unity-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> </a> 
   </div>
  
 <br>
