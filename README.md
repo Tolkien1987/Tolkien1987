@@ -1,13 +1,8 @@
-<p align="center">
-  <img alt="Girl reading while raining.All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" />
-</p>
 
-
-
-cout << "Hello, world!" << endl;
+# cout << "Hello, world!" << endl;
 
 <p>  I am Fábio, an iOS developer student at EBAC, iOS developer fellow at DevPass, digging C/C++/C#, I also have a Cybersecurity Degree in course, 
-and a Computer Networks background. My goal is to work with software development Swift / C++ / C#. </p> 
+and a Computer Networks background. </p> 
 
 - 📱 iOS Developer Student
 - 💻 I'm also studying C/C++/C#. For the future, Python, GoLang and 3D.
