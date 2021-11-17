@@ -33,6 +33,7 @@ and a Computer Networks background. </p>
 <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>
   <a href="https://golang.org/" target="_blank"> <img align="center" alt="Go-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> </a> 	  
   <a href="https://unity.com/pt" target="_blank"> <img align="center" alt="Unity-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> </a> 
+<a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank"> <img align="center" alt="raspberry-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"> </a> 
   </div>
  
 <br>
