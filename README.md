@@ -1,13 +1,12 @@
 
-# cout << "Hello, world!" << endl;
+# printf("Hello, world!");
 
-<p>  I am Fábio, an iOS developer student at EBAC, iOS developer fellow at DevPass, digging C/C++/C#, I also have a Cybersecurity Degree in course, 
+<p>  Hi! I am Fábio, an iOS developer student at EBAC and fellow Developer at DevPass. I also have a Cybersecurity Degree in course, 
 and a Computer Networks background. </p> 
 
-- 📱 iOS Developer Student
-- 💻 I'm also studying C/C++/C#. For the future, Python, GoLang and 3D.
+- 📱 iOS Developer - Student
+- 💻 For the future, more about C/C++.
 - :man_student: CyberSecurity graduation student at SENAC
-- :desktop_computer:  IT Support background 
 - 🙋🏻 I am also a photographer and guitarplayer
 - :books: Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
 
@@ -22,17 +21,15 @@ and a Computer Networks background. </p>
   <h3 align="left">Current programming languages (Learning):</h3>
   <div>
     <a href="https://docs.swift.org/swift-book/" target="_blank"> <img align="center" alt="SWIFT-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
-<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
-<a href="https://docs.microsoft.com/pt-br/visualstudio/ide/quickstart-aspnet-core?view=vs-2019" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> </a> 
+
+
     
   </div>
 	
 <h3 align="left">Next Steps:</h3>
   <div>  
-<a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>
-  <a href="https://golang.org/" target="_blank"> <img align="center" alt="Go-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> </a> 	  
-  <a href="https://unity.com/pt" target="_blank"> <img align="center" alt="Unity-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
+<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
 <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank"> <img align="center" alt="raspberry-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"> </a> 
   </div>
  
