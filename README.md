@@ -18,7 +18,7 @@ and a Computer Networks background. </p>
   <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolkien1987&langs_count=8&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
   
-  <h3 align="left">Current programming languages (Learning):</h3>
+  <h3 align="left">Current programming languages: </h3>
   <div>
     <a href="https://docs.swift.org/swift-book/" target="_blank"> <img align="center" alt="SWIFT-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"> </a>
 
@@ -26,7 +26,7 @@ and a Computer Networks background. </p>
     
   </div>
 	
-<h3 align="left">Next Steps:</h3>
+<h3 align="left">Next Steps: </h3>
   <div>  
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
