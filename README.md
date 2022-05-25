@@ -5,7 +5,7 @@
 and a Computer Networks background. </p> 
 
 - 📱 iOS Developer - Student
-- 💻 For the future, more about C/C++.
+- 💻 For the future, more Swift and Java for Back-End.
 - :man_student: CyberSecurity graduation student at SENAC
 - 🙋🏻 I am also a photographer and guitarplayer
 - :books: Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
@@ -28,8 +28,7 @@ and a Computer Networks background. </p>
 	
 <h3 align="left">Next Steps: </h3>
   <div>  
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="center" alt="C-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> </a> 	  
-<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"> </a> 
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank"> <img align="center" alt="Java-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> </a> 	  
 <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank"> <img align="center" alt="raspberry-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"> </a> 
   </div>
  
