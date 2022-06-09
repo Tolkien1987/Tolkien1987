@@ -1,14 +1,14 @@
 
-# printf("Hello, world!");
+# printf("Hello, there!");
 
-<p>  Hi! I am Fábio, an iOS developer student at EBAC and fellow Developer at DevPass. I also have a Cybersecurity Degree in course, 
+<p>  Hi! I am Fábio, an iOS developer at iti/Itaú. I keep studying Swift and also have a Cybersecurity Degree in course, 
 and a Computer Networks background. </p> 
 
-- 📱 iOS Developer - Student
-- 💻 For the future, more Swift and Java for Back-End.
-- :man_student: CyberSecurity graduation student at SENAC
-- 🙋🏻 I am also a photographer and guitarplayer
-- :books: Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, developer's world...and dinosaurs, I love them!
+- iOS Developer
+- For the future, more Swift and Java for Back-End.
+- CyberSecurity graduation student at SENAC
+- I am also a photographer and guitarplayer
+- Everything from Tolkien, Asimov, Carl Sagan, Jaron Lenier, science, music, developer's world...and dinosaurs, I love them!
 
 <a href="https://github.com/tolkien1987">
   <img height="175em" align="center"  src="https://github-readme-stats.vercel.app/api?username=tolkien1987&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact&)" />
